@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jrcor\\Downloads\\NanousisCarController-main\\NanousisCarController-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50AD1AAF-7604-107C-FFB0-F57C77486B3D}|Assembly-CSharp.csproj|c:\\users\\jrcor\\downloads\\nanousiscarcontroller-main\\nanousiscarcontroller-main\\assets\\scripts\\carinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AD1AAF-7604-107C-FFB0-F57C77486B3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarInput.cs",
+              "DocumentMoniker": "C:\\Users\\jrcor\\Downloads\\NanousisCarController-main\\NanousisCarController-main\\Assets\\Scripts\\CarInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarInput.cs",
+              "ToolTip": "C:\\Users\\jrcor\\Downloads\\NanousisCarController-main\\NanousisCarController-main\\Assets\\Scripts\\CarInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarInput.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAPUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:48:14.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
