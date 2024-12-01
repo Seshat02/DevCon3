@@ -61,20 +61,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\DriftManager.cs" />
-    <Compile Include="Assets\AiCarController.cs" />
     <Compile Include="Assets\Scripts\CarController.cs" />
-    <Compile Include="Assets\PartsGear.cs" />
-    <Compile Include="Assets\WaypointContainer.cs" />
+    <Compile Include="Assets\car_List.cs" />
     <Compile Include="Assets\Scripts\CarInput.cs" />
+    <Compile Include="Assets\Scripts\PartsGear.cs" />
+    <Compile Include="Assets\Scripts\GarageCamera.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\PartsManagerUI.cs" />
-    <Compile Include="Assets\GarageCamera.cs" />
-    <Compile Include="Assets\PartsManager.cs" />
-    <Compile Include="Assets\BrakingZone.cs" />
+    <Compile Include="Assets\Scripts\PartsManagerUI.cs" />
+    <Compile Include="Assets\Scripts\AiCarController.cs" />
     <Compile Include="Assets\Scripts\Mybutton.cs" />
-    <Compile Include="Assets\PlayerCarInput.cs" />
+    <Compile Include="Assets\Scripts\WaypointContainer.cs" />
+    <Compile Include="Assets\Scripts\PartsManager.cs" />
     <Compile Include="Assets\Scripts\Deform.cs" />
     <Compile Include="Assets\Scripts\EngineAudio.cs" />
+    <Compile Include="Assets\Scripts\PlayerCarInput.cs" />
+    <Compile Include="Assets\Scripts\UI Scripts\Start_Mngr.cs" />
+    <Compile Include="Assets\Scripts\BrakingZone.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
   </ItemGroup>
   <ItemGroup>
