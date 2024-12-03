@@ -62,7 +62,6 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\DriftManager.cs" />
     <Compile Include="Assets\Scripts\CarController.cs" />
-    <Compile Include="Assets\car_List.cs" />
     <Compile Include="Assets\Scripts\CarInput.cs" />
     <Compile Include="Assets\Scripts\PartsGear.cs" />
     <Compile Include="Assets\Scripts\GarageCamera.cs" />
@@ -72,6 +71,7 @@
     <Compile Include="Assets\Scripts\Mybutton.cs" />
     <Compile Include="Assets\Scripts\WaypointContainer.cs" />
     <Compile Include="Assets\Scripts\PartsManager.cs" />
+    <Compile Include="Assets\Scripts\AI_Follow.cs" />
     <Compile Include="Assets\Scripts\Deform.cs" />
     <Compile Include="Assets\Scripts\EngineAudio.cs" />
     <Compile Include="Assets\Scripts\PlayerCarInput.cs" />
