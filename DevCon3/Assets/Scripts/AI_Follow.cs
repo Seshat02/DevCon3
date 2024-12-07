@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class AI_Follow : MonoBehaviour
 {
@@ -40,5 +41,16 @@ public class AI_Follow : MonoBehaviour
         gasDampen = Mathf.Lerp(gasDampen, gasInput, Time.deltaTime * 3f);
         carController.SetInput(gasDampen, currentAngle, 0, 0);
         Debug.DrawRay(transform.position, target.transform.position - transform.position, Color.yellow);
+    }
+
+    void OnCollsionEnter(Collider collider)
+    {
+        if (collider.gameObject.CompareTag("Player"))
+        {
+            SceneManager.LoadScene("GameOver");
+        }
+
+
+       
     }
 }

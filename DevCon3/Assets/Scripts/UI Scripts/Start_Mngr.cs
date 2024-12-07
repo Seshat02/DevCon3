@@ -24,7 +24,7 @@ public class Start_Mngr : MonoBehaviour
 
     public void StartButton()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("CityScene");
     }
 
     
