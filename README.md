@@ -71,9 +71,9 @@ This design leverages the classic “Cops and Robbers” chases, with modernized
 - **Pursuer AI**
 The AI was designed to give a challenging yet fair opponent that adapts to the player’s moves. The early prototype showed that the AI followed a set path that needed balance and was also too aggressive as it kept driving into the player's car, we also found that making it too passive removed the sense of danger.
 The solution we came up with was to introduce adaptive difficulty, where the AI’s tactics adjust based on the player’s performance.
-- **Environmental Hazards**
+- **Environmental Hazards (scrapped)**
 Hazards were carefully placed to create a natural flow through the city. Testing revealed that players enjoyed finding alternate routes so shortcuts and alleyways were added for a more strategic depth.
-- **Power-ups**
+- **Power-ups (scrapped)**
 Power-ups were implemented to give players creative ways to escape. The oil slick was refined to balance risk and reward. 
 Limiting the availability of power-ups ensured that they felt impactful without being overpowered.
 
