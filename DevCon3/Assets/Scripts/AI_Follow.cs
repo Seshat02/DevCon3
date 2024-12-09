@@ -13,7 +13,7 @@ public class AI_Follow : MonoBehaviour
     public float gasDampen;
     public bool isInsideBraking;
     public float maximumAngle = 45f;
-    public float maximumSpeed = 120f;
+    public float maximumSpeed = 100f;
     [Range(0.01f, 0.04f)]
     public float turningConstant = 0.02f;
     // Start is called before the first frame update
