@@ -1,5 +1,10 @@
 # DevCon3 
 ## Drift Escape - Game Design Document
+
+Desginer Commentary Video Link
+
+https://youtu.be/rJAgiT-B_U8
+
 Team Members:
 - Jennifer Rodriguez
 - Matthew Barrameda
@@ -89,7 +94,5 @@ Limiting the availability of power-ups ensured that they felt impactful without 
 - Song, Z., Hua, Y., Zhuang, Y., Zhao, J., Wang, Y., & Zhang, X. (2024, July 10). Vehicle steady drifting control with safety boundary constraints - nonlinear dynamics. SpringerLink. https://link.springer.com/article/10.1007/s11071-024-09845-9 
 - Liu, M., Leng, B., Xiong, L., Yu, Y., & Yang, X. (2021, September 1). Segment Drift Control with a supervision mechanism for Autonomous Vehicles. MDPI. https://www.mdpi.com/2076-0825/10/9/219 
 
-Desginer Commentary Video Link
 
-https://youtu.be/rJAgiT-B_U8
 
