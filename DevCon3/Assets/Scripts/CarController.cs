@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 public enum GearState
 {
     Neutral,
@@ -372,6 +373,19 @@ public class CarController : MonoBehaviour
 
         if(gearState!=GearState.Neutral)
         gearState = GearState.Running;
+    }
+    void OnTriggerEnter(Collider collider)
+    {
+        if (collider.gameObject.CompareTag("SafeHouse"))
+        {
+            SceneManager.LoadScene("WinScreen");
+        }
+
+        if (collider.gameObject.CompareTag("CheckPoint"))
+        {
+            Destroy(collider.gameObject);
+        }
+
     }
 }
 [System.Serializable]
